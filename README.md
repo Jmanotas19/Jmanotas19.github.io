@@ -1,7 +1,7 @@
 # Hello everyone! 🤘🏻
 
 Welcome to my personal page! I'm Javier Manotas.
-[https://jmanotas19.github.io/]
+[Visit my personal website](URL "https://jmanotas19.github.io/")
 
 ## My Studies 🎓
 
