@@ -1,6 +1,7 @@
 # Hello everyone! 🤘🏻
 
-Welcome to my personal page! I'm JManotas19 and I'm excited to share a bit about myself with you. 🎉
+Welcome to my personal page! I'm Javier Manotas.
+[(https://jmanotas19.github.io/)]
 
 ## My Studies 🎓
 
